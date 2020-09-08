@@ -10,15 +10,10 @@ ya entre RT
 =======================================
 
 =======================================
-Este cambio es desde Visual studio
-
-===================================================================================================================================================================================================
-
-este cambio es  als 9:48
-
-otro cambios
 
 
-=======================================
+Nuevo Contenido desde VS
 
-cambios de las 9:50
+Cambio desde VS Esteban Tarrifa
+
+Cambio desde VS Esteban Tarrifa
