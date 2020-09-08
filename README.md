@@ -10,3 +10,7 @@ ya entre RT
 =======================================
 
 =======================================
+
+ahora cambio desde visual studio at at
+
+otro cambio at desde visual estudios
