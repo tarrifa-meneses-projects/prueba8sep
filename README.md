@@ -10,4 +10,4 @@ ya entre RT
 =======================================
 
 =======================================
-Este cambio es desde Visual SEstudio
+Este cambio es desde Visual studio
